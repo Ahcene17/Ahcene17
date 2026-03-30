@@ -1,7 +1,7 @@
 ## Bonjour
 
 Data Analyst
-Passionné par l’analyse de données, le machine learning et les technologies cloud  
+passionné par l’analyse de données, le machine learning et les technologies cloud  
 
 ---
 
@@ -36,7 +36,7 @@ Passionné par l’analyse de données, le machine learning et les technologies 
 
 ---
 
-##  Projet mis en valeur
+## Projets phares
 
  **Projet de modélisation prédictive - Détection de Fraude Carte de Crédit
 
