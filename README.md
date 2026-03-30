@@ -1,7 +1,7 @@
 ## Bonjour
 
- Je suis étudiant en science des données 
- Passionné par l’analyse de données, le machine learning et les technologies cloud  
+Data Analyst
+Passionné par l’analyse de données, le machine learning et les technologies cloud  
 
 ---
 
@@ -57,6 +57,6 @@ Le modèle retenu améliore significativement la capacité de détection tout en
 Impact :
 Ce type de modèle peut aider une organisation à mieux cibler ses décisions stratégiques et réduire les risques liés à de mauvaises prédictions.
 
-👉 Voir le projet complet dans mes repositories.
+👉 Voir le projet complet dans mes repositories : https://github.com/Ahcene17/detection-fraude-carte-credit
 
 ---
